@@ -28,6 +28,11 @@
 - Focus on the client side technologies 
 - Usability and requirements of designing to standards as established by the W3C organisation
 
+
+#Assessment Strategy 
+
+The assessment will take place in the form of a single TCA, which will take place in mid January 2017 **(date to be confirmed)**
+
 #Why This Unit Is Exciting 
 
 There’s a huge demand for the skills covered
@@ -64,15 +69,15 @@ HTML5 is no longer static, it allows us to create feature rich stunning graphica
 Session | Topic    |  Lab Task|  
 ----    | -------- | -------- | 
 Week 1  | <a href='sessions/session1/README.md'>Introduction to HTML </a> | <a href='sessions/session1/pratical.md'>Creating your first  wepage </a>|
-Week 2  | HTML Tables and  Introducing CSS  |    |
-Week 3  | Laying out pages using CSS   |    |
-Week 4  | Legal considerations when making a website  | |
-Week 5  | Semantic HTML5 and Navigation |  |
-Week 6  | HTML Forms and Publishing Your Site Using FTP | | 
-Week 7  | Laying Out HTML Forms |  | 
-Week 8  | Search Engine Optimisation  | | 
-Week 9  | HTML 5 Video | | |
-Week 10 | Catchup week| | 
+Week 2  | HTML Tables and  Introducing CSS  |  TBC  |
+Week 3  | Laying out pages using CSS   |   TBC |
+Week 4  | Legal considerations when making a website  | TBC |
+Week 5  | Semantic HTML5 and Navigation | TBC |
+Week 6  | HTML Forms and Publishing Your Site Using FTP | TBC| 
+Week 7  | Laying Out HTML Forms | TBC | 
+Week 8  | Search Engine Optimisation  | TBC | 
+Week 9  | HTML 5 Video | TBC | 
+Week 10 | Catchup week| TBC | 
 
 #Further Information
 
