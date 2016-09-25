@@ -14,6 +14,12 @@
 - Joe Appleton – Unit leader
 	- Lecturer in Programming (web)
 	- 10 years industry experience specialising in programming web applications
+	
+ - 10 years industry experience specialising in programming web
+ - Found and sold one tech business (a finacial marketing platform)
+ - Currently involved in several technical web projects 
+ 		- Livelfechage.co.uk (an online fitness challenge) 
+ 		- Portvisitor.org  (a port information service)	  
 - Darren Cunningham - Tutor
 	- Lecturer in Computing 
 	- Industry web experience 
@@ -27,6 +33,11 @@
 	- CSS
 - Focus on the client side technologies 
 - Usability and requirements of designing to standards as established by the W3C organisation
+
+#Unit delivery
+
+-  A 1 hour lecture each week
+-  The lecture will be complemented by a 2 hour pratical
 
 
 #Assessment Strategy 
