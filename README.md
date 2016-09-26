@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Welcome to the Internet Technology 
 - [Introducing the Unit team](#unit-team)
 - [About the Unit](#about-the-unit) 
@@ -16,7 +17,7 @@
 	- 10 years industry experience specialising in programming web applications
 	
  - 10 years industry experience specialising in programming web
- - Found and sold one tech business (a finacial marketing platform)
+ - Found and sold one tech business (a financial marketing platform)
  - Currently involved in several technical web projects 
  		- Livelfechage.co.uk (an online fitness challenge) 
  		- Portvisitor.org  (a port information service)	  
@@ -36,8 +37,8 @@
 
 #Unit delivery
 
--  A 1 hour lecture each week
--  The lecture will be complemented by a 2 hour practical
+-   A 1 hour lecture each week
+-   The lecture will be complemented by a 2 hour practical
 
 
 #Assessment Strategy 
@@ -79,7 +80,7 @@ HTML5 is no longer static, it allows us to create feature rich stunning graphica
 
 Session | Topic    |  Lab Task|  
 ----    | -------- | -------- | 
-Week 1  | <a href='sessions/session1/README.md'>Introduction to HTML </a> | <a href='sessions/session1/pratical.md'>Creating your first  wepage </a>|
+Week 1  | <a href='sessions/session1/README.md'>Introduction to HTML </a> | <a href='sessions/session1/pratical.md'>Creating your first  web page </a>|
 Week 2  | HTML Tables and  Introducing CSS  |  TBC  |
 Week 3  | Laying out pages using CSS   |   TBC |
 Week 4  | Legal considerations when making a website  | TBC |

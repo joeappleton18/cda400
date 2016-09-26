@@ -14,8 +14,11 @@
  ![html 5 logo](assets/html5_logo.png)   
 >> [We're on HTML version 5](https://www.w3.org/TR/html5/)   
 
-- Hyper Text Markup Language- Designed for the creation of web pages and other information viewable in a browser- We’re currently on version 5
-- File extension, needs to be .html or .htm
+- Hyper Text Markup Language
+- Designed for the creation of web pages and other information viewable in a browser
+- We’re currently on version 5
+- File extension, needs to be .html or .htm
+
 
 ##Tools Used To Create HTML Pages
 
@@ -23,12 +26,18 @@
 >> [We recommend using Brackets](http://brackets.io/)  
 
 
-- Basic text editors   - e.g. Notepad, Wordpad- Source code editors   - e.g. Notepad++ , Komodo Edit 
+- Basic text editors
+   - e.g. Notepad, Wordpad
+- Source code editors
+   - e.g. Notepad++ , Komodo Edit 
 - We highly recommend you use <strong> brackets </strong> for this course
 
 ##HTML Elements 
 
-- An HTML document is made up of elements also know as HTML tags	- elements are containers for content	- everything from the start tag to the end tag	- some types of element may contain other elements
+- An HTML document is made up of elements also know as HTML tags
+	- elements are containers for content
+	- everything from the start tag to the end tag
+	- some types of element may contain other elements
 	- An html document starts with the doctype `<!DOCTYPE html>`
 	- The rest of the document is nested in-between  `<html>` tags
 
@@ -42,7 +51,18 @@ An complete HTML document example:
 
 
 ```html
-<!DOCTYPE html><html>	  <head>			<title>my first page</title>	  </head>      <body>			<h1>This is my first Web Page</h1>			<p>I should write a paragraph about myself</p>			<img src="image.jpg" alt="describe the image” >			<a href="http://www.solent.ac.uk">University</a>      </body></html>
+<!DOCTYPE html>
+<html>
+	  <head>
+			<title>my first page</title>
+	  </head>
+      <body>
+			<h1>This is my first Web Page</h1>
+			<p>I should write a paragraph about myself</p>
+			<img src="image.jpg" alt="describe the image” >
+			<a href="http://www.solent.ac.uk">University</a>
+      </body>
+</html>
 
 ```
 
