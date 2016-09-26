@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Welcome to the Internet Technology 
 - [Introducing the Unit team](#unit-team)
 - [About the Unit](#about-the-unit) 
