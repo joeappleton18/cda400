@@ -15,9 +15,9 @@
 	- Lecturer in Programming (web)
 	- 10 years industry experience specialising in programming web applications
 - Darren Cunningham - Tutor
-	- Lecturer in Computing 
-	- Industry web experience 
-	- 4 Years lecturing experience  		
+	-  Lecturer in Computing 
+	-  Industry web experience 
+	-  4 Years lecturing experience  		
 
 #About the Unit 
 - 10 Credits
@@ -68,7 +68,7 @@ HTML5 is no longer static, it allows us to create feature rich stunning graphica
 
 Session | Topic    |  Lab Task|  
 ----    | -------- | -------- | 
-Week 1  | <a href='sessions/session1/README.md'>Introduction to HTML </a> | <a href='sessions/session1/pratical.md'>Creating your first  wepage </a>|
+Week 1  | <a href='sessions/session1/README.md'>Introduction to HTML </a> | <a href='sessions/session1/pratical.md'>Creating your first  web page </a>|
 Week 2  | HTML Tables and  Introducing CSS  |  TBC  |
 Week 3  | Laying out pages using CSS   |   TBC |
 Week 4  | Legal considerations when making a website  | TBC |
