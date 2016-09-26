@@ -37,7 +37,7 @@
 #Unit delivery
 
 -  A 1 hour lecture each week
--  The lecture will be complemented by a 2 hour pratical
+-  The lecture will be complemented by a 2 hour practical
 
 
 #Assessment Strategy 
