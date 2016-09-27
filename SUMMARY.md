@@ -1,5 +1,5 @@
 #Summary 
 
 * [Week 1 - Intro to Unit and HTML](sessions/week1/introduction.md)
-	* [Notes](sessions/week1/week1/notes.md)
-	* [Practical](sessions/week1/week1/practical.md)	
+	* [Notes](sessions/week1/notes.md)
+	* [Practical](sessions/week1/practical.md)	
