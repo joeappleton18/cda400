@@ -18,7 +18,7 @@
  - 10 years industry experience specialising in programming web
  - Found and sold one tech business (a financial marketing platform)
  - Currently involved in several technical web projects 
- 		- Livelfechage.co.uk (an online fitness challenge) 
+ 		- Livelifechange.co.uk (an online fitness challenge) 
  		- Portvisitor.org  (a port information service)	  
 - Darren Cunningham - Tutor
 	- Lecturer in Computing 
