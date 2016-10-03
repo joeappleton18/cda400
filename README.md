@@ -7,7 +7,6 @@
 - [Course Progression](#course-progression)
 - [Useful Resources](#useful-resources)
 - [Further Information](#further-information)
-- [Session Schedule](#session-schedule)
 
 #Unit Team
 
@@ -72,23 +71,8 @@ HTML5 is no longer static, it allows us to create feature rich stunning graphica
 ![progression](assets/progression.png)
 
 #Useful Resources
-[W3 Schools](http://www.w3schools.com/html) - offer a very comprehensive introduction to HTML.
+[W3 Schools](http://www.w3schools.com/html) - offers a very comprehensive introduction to HTML.
 
-#Session Schedule 
-
-
-Session | Topic    |  Lab Task|  
-----    | -------- | -------- | 
-Week 1  | <a href='sessions/session1/README.md'>Introduction to HTML </a> | <a href='sessions/session1/pratical.md'>Creating your first  web page </a>|
-Week 2  | HTML Tables and  Introducing CSS  |  TBC  |
-Week 3  | Laying out pages using CSS   |   TBC |
-Week 4  | Legal considerations when making a website  | TBC |
-Week 5  | Semantic HTML5 and Navigation | TBC |
-Week 6  | HTML Forms and Publishing Your Site Using FTP | TBC| 
-Week 7  | Laying Out HTML Forms | TBC | 
-Week 8  | Search Engine Optimisation  | TBC | 
-Week 9  | HTML 5 Video | TBC | 
-Week 10 | Catchup week| TBC | 
 
 #Further Information
 
