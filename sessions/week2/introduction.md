@@ -3,6 +3,6 @@
 By the end of this week, you should have an understanding of:
 
 
-- Construct lists in HTML
+- Constructing lists in HTML
 - Create HTML tables 
 - Understand web standards 
