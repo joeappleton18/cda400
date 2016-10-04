@@ -1,21 +1,29 @@
 #Week 2 
 
 
+[HTML Lists](#html-lists)  
+[Element syntax](#element-syntax)
+
+
+
+##Element syntax
+
+**Remember elements are what we call HTML tags:**![assets/attribute.png](assets/attribute.png)- Basic building block of an HTML document- container for content- each type of element may contain certain other elements- each type of element may have certain attributes- some elements don’t need closing tag (“void” elements) e.g. `<img>`
+
+
+
 ##HTML Lists 
 
 - Introducing the unordered list element- Used for lists (obviously) and for navigation links
 
 ```html
 
-<ul><li>List item one</li><li>List item two</li><li>List item three</li></ul>
+<ul>	<li>List item one</li>	<li>List item two</li>	<li>List item three</li></ul>
 
 
 ```**Browser output**
 
 <ul><li>List item one</li><li>List item two</li><li>List item three</li></ul>
-
-
-##Element syntax![assets/attribute.png](assets/attribute.png)- Basic building block of an HTML document- container for content- each type of element may contain certain other elements- each type of element may have certain attributes- some elements don’t need closing tag (“void” elements) e.g. `<img>`
 
 ##HTML Headings 
 
