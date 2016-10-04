@@ -1,13 +1,13 @@
 #Week 2 
 
-[Week 1 Important Points](#week-1-important-points)
-  [Element Syntax](element-syntax)
-  [HTML Headings](#html-headings)
-[How Do We Validate HTML](#how-do-we-validate-html)
-[The HTML5 Template](#introducing_the_html5_template)
-[Nested HTML Elements](#nested-html-elements)
-  [HTML Lists](#html_lists)
-  [HTML Tables](#html-tables)
+[Week 1 Important Points](#week-1-important-points)  
+  [Element Syntax](element-syntax)   
+  [HTML Headings](#html-headings)  
+[How Do We Validate HTML](#how-do-we-validate-html)  
+[The HTML5 Template](#introducing_the_html5_template)  
+[Nested HTML Elements](#nested-html-elements)  
+  [HTML Lists](#html_lists)  
+  [HTML Tables](#html-tables)  
 
 
 #Week 1 Important Points
