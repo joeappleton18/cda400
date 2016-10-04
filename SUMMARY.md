@@ -6,4 +6,4 @@
 
 * [Week 2 - Intro to Unit and HTML](sessions/week2/introduction.md)
 	* [Notes](sessions/week2/notes.md)
-	* [Practical](sessions/week2/practical.md)		
+	* [Practical](sessions/week2/task.md)		
