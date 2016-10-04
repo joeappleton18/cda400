@@ -27,7 +27,12 @@ Use the [W3C Validator](https://validator.w3.org/) to ensure all your work so fa
 
 - Within the gitHub pages directory on your local computer create a index.html file 
 - Work out how to download save and include [this](https://github.com/joeappleton18/joeappleton18.github.io/blob/master/scripts/main.js) script into index.html. You should try and include it as a external javascript file 
-- If you've included the script properly, every time you include this tag: `<video class="video" width="200" height="200" autoplay>` you'll see a 200 * 200 tile streami	ng the contents of your webcam.
+
+- If you've included the script properly, every time you include the tag below into your index.html file, you'll see a 200*200px streaming video from you webcam:  
+
+   ```html <video class="video" width="200" height="200" autoplay>```
+ 
+
 - Using a table create a webcam mosaic like mine below:
 
 ![](assets/web_cam_picture.png)
