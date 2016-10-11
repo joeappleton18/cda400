@@ -8,5 +8,7 @@
 	* [Notes](sessions/week2/notes.md)
 	* [Practical](sessions/week2/task.md)	
 * [Week 3 - Introduction to CSS](sessions/week3/introduction.md)
+  * [Notes](sessions/week3/notes.md)
+  * [Practical](sessions/week3/task.md)
 
 		
