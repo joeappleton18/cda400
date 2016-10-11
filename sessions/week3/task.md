@@ -62,7 +62,7 @@ Also, mark the closing `</div>` tags  with a comment e.g. `<!--[END]#section-->`
 ###1.3 Add some css rules
 Now we need to add some style rules into `styles.css`, as we've linked this file into our HTML page it will control the look and feel of the timetable webpage. Furthermore, as this style sheet is external we can create new HTML pages with the same look and feel by just including this style sheet!
 
-**Have a look at the appendix to see what my styles look like to control the look and feel of my HTML demoed task 2.2**
+**Have a look at the appendix to see what my styles look like to control the look and feel of my HTML**
 
 Please get as creative as you like, but as a minimum I'd like to see:
 
@@ -84,11 +84,9 @@ Please get as creative as you like, but as a minimum I'd like to see:
 Make sure your HTML is valid using the W3C validator. [https://validator.w3.org/](https://validator.w3.org/)
 
 ##4 Appendix
-<br>
-<br>
-<br>
 
-![ site sample](assets/site_sample.png)
+
+![site sample](assets/site_sample.png)
 
  **Joe Appleton learning log styles**
  
