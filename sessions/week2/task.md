@@ -1,4 +1,4 @@
-#Internet Technology Week 2 Pratical
+#Internet Technology Week 2 Practical
 
  
 ##1. Create your timetable
