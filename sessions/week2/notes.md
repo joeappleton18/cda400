@@ -40,8 +40,6 @@
 -  It's very important you write valid HTML 
 
 
-
-
 #Introducing the HTML5 Template
 
 - It's often useful to create a starting HTML template. Here's what mine looks like (feel free to use it): 
@@ -61,17 +59,16 @@
 <body>    
           
         
-         <!-- These are block level elments, using them creates a new line 
-              takes up the whole space available
-         !-->
-         
-         
-         <h1 style="background-color:black; margin:5px">I am a h1</h1>
-         <p style="background-color:black; margin:5px"> I am a paragraph, I start a new line and take up full width available to me </p>
+  <!-- These are block level elments, using them creates a new line 
+      takes up the whole space available
+  !-->
+
+
+  <h1>I am a h1</h1>
+  <p> I am a paragraph, I start a new line and take up full width available to me </p>
 
 </body>
 </html>
-
 ```
 ##Some New Tags
 
@@ -80,8 +77,6 @@
 - `<meta>` tags allow us to add further descriptive information about our page are always placed in the `<head>` section of the page. 
 - `<link rel="stylesheet" href="css/styles.css?v=1.0">` this pulls in a style sheet. We'll look more into this next week
 
-
- 
 
 
 #Nested HTML Elements
