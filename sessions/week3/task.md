@@ -21,41 +21,41 @@ Also, mark the closing `</div>` tags  with a comment e.g. `<!--[END]#section-->`
 <sup>
 
     <body>    
-        <div id="wrapper"     
-        <div id="header">
-            <img src="img/solent_logo.png" alt="solent logo">
-        </div> <!--[END]#header-->
-        
-        <div id="section">   
-            <h1>Joe Appleton's Timetable For Just One Morning</h1>
-            <table>  
-                <caption> Joe Appleton - Timetable </caption>
-                <tr>
-                    <th>&nbsp;</th>
-                    <th>9AM</th>
-                    <th>10AM</th>
-                    <th>11AM</th>
-                    <th>12AM</th>
-                </tr>  
-                <tr>
-                    <td class="day">
-                        Monday
-                    </td>
-                    <td colspan="2" class="hour">
-                        <h3>Internet Technology</h3>
-                        EPT, Area 01 Andrews IT Resource Centre <br> <span class="group"> IT Resource Centre (PCRoom)  </span>
-                    </td>
-                    <td colspan="2" class="hour">
-                        <h3>SWD501 Developing for the Internet</h3>
-                        <span class="room"> RM501 </span> <br> <span class="group">Maritime Systems</span> Laboratory
-                    </td>  
-                </tr>
-             </table>
-        </div>  <!--[END]#section-->   
-                
-        <div id="footer">
-            <p><span class="myname"> Joe Appleton - </span> <a href="http://www.solent.ac.uk"> Please visit solent for more info </a>
-        </div><!--[END]#footer-->
+        <div id="wrapper">     
+	        <div id="header">
+	            <img src="img/solent_logo.png" alt="solent logo">
+	        </div> <!--[END]#header-->
+	        
+	        <div id="section">   
+	            <h1>Joe Appleton's Timetable For Just One Morning</h1>
+	            <table>  
+	                <caption> Joe Appleton - Timetable </caption>
+	                <tr>
+	                    <th>&nbsp;</th>
+	                    <th>9AM</th>
+	                    <th>10AM</th>
+	                    <th>11AM</th>
+	                    <th>12AM</th>
+	                </tr>  
+	                <tr>
+	                    <td class="day">
+	                        Monday
+	                    </td>
+	                    <td colspan="2" class="hour">
+	                        <h3>Internet Technology</h3>
+	                        EPT, Area 01 Andrews IT Resource Centre <br> <span class="group"> IT Resource Centre (PCRoom)  </span>
+	                    </td>
+	                    <td colspan="2" class="hour">
+	                        <h3>SWD501 Developing for the Internet</h3>
+	                        <span class="room"> RM501 </span> <br> <span class="group">Maritime Systems</span> Laboratory
+	                    </td>  
+	                </tr>
+	             </table>
+	        </div>  <!--[END]#section-->   
+	                
+	        <div id="footer">
+	            <p><span class="myname"> Joe Appleton - </span> <a href="http://www.solent.ac.uk"> Please visit solent for more info </a>
+	        </div><!--[END]#footer-->
     </div><!--[END]#wrapper -->
 </body>
 
