@@ -85,15 +85,12 @@ Please get as creative as you like, but as a minimum I'd like to see:
 ##3 Validate your HTML
 Make sure your HTML is valid using the W3C validator. [https://validator.w3.org/](https://validator.w3.org/)
 
-##3 Learning Log
-Update your learning log for session 3, remember it's now HTML.
-
 ##4 Appendix
 <br>
 <br>
 <br>
 
-![site sample](site_sample.png)
+![ site sample](site_sample.png)
 
  **Joe Appleton learning log styles**
  
