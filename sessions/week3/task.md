@@ -18,8 +18,7 @@ Also, mark the closing `</div>` tags  with a comment e.g. `<!--[END]#section-->`
 `<div id="footer">.. </div>`
 
  At this stage your page won't actually look any different, we're just splitting the document up into intuitive sections.    
-<sup>
-
+```
     <body>    
         <div id="wrapper"     
         <div id="header">
@@ -58,8 +57,7 @@ Also, mark the closing `</div>` tags  with a comment e.g. `<!--[END]#section-->`
         </div><!--[END]#footer-->
     </div><!--[END]#wrapper -->
 </body>
-
-</sup>
+```
 
 ###1.3 Add some css rules
 Now we need to add some style rules into `styles.css`, as we've linked this file into our HTML page it will control the look and feel of the timetable webpage. Furthermore, as this style sheet is external we can create new HTML pages with the same look and feel by just including this style sheet!
@@ -90,7 +88,7 @@ Make sure your HTML is valid using the W3C validator. [https://validator.w3.org/
 <br>
 <br>
 
-![ site sample](site_sample.png)
+![ site sample](assets/site_sample.png)
 
  **Joe Appleton learning log styles**
  
