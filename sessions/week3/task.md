@@ -84,9 +84,7 @@ Please get as creative as you like, but as a minimum I'd like to see:
 Make sure your HTML is valid using the W3C validator. [https://validator.w3.org/](https://validator.w3.org/)
 
 ##4 Appendix
-
-
-![site sample](assets/site_sample.png)
+![](site_sample.png)
 
  **Joe Appleton learning log styles**
  
