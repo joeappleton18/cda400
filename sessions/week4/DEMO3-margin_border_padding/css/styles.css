@@ -8,6 +8,9 @@
     height: 500px;
     background-color: black;
     color: red;
+    padding-left: 50px;
+    
+    
     
     /* STEP2 add some padding */
     /* box is now (500px + 50px + 50px) x (500px + 50px +50px) = 600px x 600px
@@ -22,7 +25,7 @@
     padding : 50px 50px 50px 50px;    
     */
     
-    padding: 50px;
+    /*padding: 50px;*/
     
     /* STEP3 add a border */
     /* box is now  (600px + 50px +50px) x  (600px + 50px +50px)  = 700px

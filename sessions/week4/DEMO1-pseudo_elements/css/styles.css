@@ -9,7 +9,12 @@ h1:before{
 p:first-line{
    text-decoration: underline;   
 }
-    
+  
+p:first-letter{
+ text-transform: capitalize;   
+}
+
+
 a:link{ 
    color: #FF0000;
 
