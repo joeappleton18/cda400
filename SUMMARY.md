@@ -11,4 +11,8 @@
   * [Notes](sessions/week3/notes.md)
   * [Practical](sessions/week3/task.md)
 
+* [Week 4 - Introduction to CSS](sessions/week3/introduction.md)
+  * [Notes](sessions/week4/notes.md)
+  * [Practical](sessions/week4/task.md)  
+
 		
