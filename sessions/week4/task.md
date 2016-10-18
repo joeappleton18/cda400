@@ -13,7 +13,7 @@ Please only use external styles for this task.
 
 Please go wild and style the page as much as you like, but as a minimum I want to see you complete the below tasks. Once done your page should resemble the layout below:
 
-![](task_image_new.jpg)   
+![site_layout](assets/task_image_new.jpg)
 
 
 * Section up your site using a minimum of 3 `<div>'s `#left_nav`, `#section` and `#wrapper` which holds all the content.
