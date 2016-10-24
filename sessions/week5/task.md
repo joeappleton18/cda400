@@ -1,4 +1,4 @@
-#Session 6 Semantic HTML Task
+#Session 5 Semantic HTML Task
 
 ##Task 1 - Using Semantic HTML
 
