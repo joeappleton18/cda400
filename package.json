@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joeappleton18/cda400/issues"
   },
-  "homepage": "https://github.com/joeappleton18/cda400#readme"
+  "homepage": "https://github.com/joeappleton18/cda400#readme",
+  "dependencies": {
+    "gitbook-plugin-codepen": "^0.1.2"
+  }
 }
