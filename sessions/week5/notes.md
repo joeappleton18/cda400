@@ -1,6 +1,6 @@
 #Exploring the box model 
 
-#Using the decendant selector 
+#Using the descendant selector 
 
 - The descendant selector matches all elements that are descendants of given element
 - We can use it to avoid the over use of id’s and class attributes
@@ -25,7 +25,14 @@
 
   ```
 
-#How to create a menu using CSS
+#Lists For Navigation Bar’s
+
+- List are a great way to group common elements, therefor they are the go to when it comes to implementing menus in HTML. 
+
+```html
+
+
+```
 
 
 
