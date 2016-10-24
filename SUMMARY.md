@@ -20,4 +20,4 @@
 
 * Week 5 - CSS Navigation and HTML 5 Semantic Tags
   * [Notes](sessions/week5/notes.md)
-  * [Practical](sessions/week5/task.md)
+  * [Practical](sessions/week5/pratical.md)
