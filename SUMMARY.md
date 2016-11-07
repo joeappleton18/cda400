@@ -20,9 +20,8 @@
 
 * Week 5 - CSS Navigation and HTML 5 Semantic Tags
   * [Notes](sessions/week5/notes.md)
-  * [Practical](sessions/week5/pratical.md)
+   * [Practical](sessions/week5/task.md)
 
 * Week 6 - Mock TCA Preparation 
 
 	* [Notes](sessions/week6/notes.md)
-	

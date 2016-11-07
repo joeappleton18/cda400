@@ -7,7 +7,7 @@ The purpose of this task is to understand semantic HTML elements and also gain a
 
 **Set up**
 
-* Download the task files from my course
+* Download the task from [here](https://github.com/joeappleton18/cda400/raw/master/sessions/week5/assets/session6.zip)
 * Extract it inside your `internet_tech` folder
 * The resulting folder will be called `session6`
 * Open `index.html` within your favourite text editor and make sure you understand how the semantic HTML elements are laid out

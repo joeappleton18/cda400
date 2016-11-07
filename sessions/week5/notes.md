@@ -64,12 +64,20 @@
 
 #CSS3 Gradient And Radius
 
-- CSS3 is the latest version of CSS- There are many new exciting features
+- CSS3 is the latest version of CSS
+- There are many new exciting features
 - For example, it's now easy to apply effects to our html elements 
 - Look how easy it is to create an interesting effect on the below `<div>`, by using the radius and gradient property. 
 
-![](assets/css3.png)```css
-.box1{	width: 100px;    	height: 100px;    	border: 2px solid black;    	border-radius: 10px;    	background:   linear-gradient(red, blue);
+![](assets/css3.png)
+
+```css
+.box1{
+	width: 100px;    
+	height: 100px;    
+	border: 2px solid black;    
+	border-radius: 10px;    
+	background:   linear-gradient(red, blue);
 }
 
 ```
@@ -82,7 +90,43 @@
 
 ##HTML5 Semantic Elements Examples
 
-![](assets/semantic_html.png) - `<header>`: defines a header for a document or a section- `<nav>` - defines a container for navigation links- `<section>` - defines a section in a document- `<article>` - defines an independent self-contained article
-- `<aside>` - defines content aside from the content (like a sidebar)`<footer>` - defines a footer for a document or a section##Example of a HTML 5 Layout  ```html<body> <div id=“wrapper”>      <header>          <h1>Header</h1>    </header>    <aside>         <nav>            <p> This is your left navigation … </p>         </nav>    </aside>    <section>          <h2>Subheading</h2>          <p> This is the content part … </p>    </section>    <footer>           <p> Footer </p>    </footer></div> <!-- ./wrapper --></body>
+![](assets/semantic_html.png)
 
-```
+ - `<header>`: defines a header for a document or a section
+- `<nav>` - defines a container for navigation links
+- `<section>` - defines a section in a document
+- `<article>` - defines an independent self-contained article
+- `<aside>` - defines content aside from the content (like a sidebar)
+`<footer>` - defines a footer for a document or a section
+
+
+##Example of a HTML 5 Layout  
+```html
+<body>
+ <div id=“wrapper”>  
+    <header>
+          <h1>Header</h1>
+    </header>
+    <aside>
+         <nav>
+            <p> This is your left navigation … </p>
+         </nav>
+    </aside>
+    <section>
+          <h2>Subheading</h2>
+          <p> This is the content part … </p>
+    </section>
+    <footer>
+           <p> Footer </p>
+    </footer>
+</div> <!-- ./wrapper -->
+</body>
+
+```
+
+
+
+
+
+
+
