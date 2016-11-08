@@ -89,11 +89,11 @@ In order to succeed in the mock TCA you should ensure you understand the areas o
 
 - Understand the basics of the box model how to use:
 
-   - width -   `width: 100px`
-   - height -  `height: 100px`
-	- margin -  `margin: 10px 10px 10px 10px`
-	- padding -  `padding: 10px 10px 10px`
-	- border  -  `border 1px solid green`
+ - width  -   `width: 100px`
+ - height -  `height: 100px`
+ - margin -  `margin: 10px 10px 10px 10px`
+- padding -  `padding: 10px 10px 10px`
+- border  -  `border 1px solid green`
 
 	
 - **Understand float layout and know how to use it to position `div`'s**
