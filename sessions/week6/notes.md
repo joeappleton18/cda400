@@ -44,7 +44,7 @@ In order to succeed in the mock TCA you should ensure you understand the areas o
     </div> <!-- /#content_section -->
     ```
 	
-	- **Note**, as per the above example it's also important to use an HTML comment to mark closing DIV's
+- **Note**, as per the above example it's also important to use an HTML comment to mark closing DIV's
 
 	
 	
