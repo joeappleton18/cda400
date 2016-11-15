@@ -70,7 +70,7 @@ Let's further look at some further form inputs.
   <label for="rating">  Please enter rating   </label>
   <p><input type="radio" name="rating" value="excellent"> Excellent</p>  <input type="radio" name="rating" value="good"> Good </p>  <input type="radio" name="rating" value="bad"> Bad </p>
   ```
-  ![radio_box](assets/radio_box.psd)   
+  ![radio_box](assets/radio_box.jpg)   
   
 - The buttons in the same group have the same name
 
@@ -81,14 +81,14 @@ Let's further look at some further form inputs.
 
 ##Input - Check Box
 
-![radio_box](assets/check_box.psd) 
+![radio_box](assets/check_box.jpg) 
 
 - Similar to check boxes, however they allow MULTIPLE choices
 
 
 
 ##Drop Down List
-![radio_box](assets/drop_down_list.psd) 
+![radio_box](assets/drop_down_list.jpg) 
 ```<label>Shipping method: </label>   	<select name="shipping">					<option value="1"> Standard</option>					<option value="2"> 2-day</option>					<option value="3"> Overnight</option>	</select>
 ```		
 
