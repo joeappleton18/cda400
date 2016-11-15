@@ -47,6 +47,7 @@ Please consider your data protection requirements, setting up a website. To make
 	-  Each `<input>` should have a label with a `for` attribute 
 
 - Your form **must** comply to the below specification
+-  Use `<p>` tags to separate inputs
 - The form should have a method of post and an action sending it to `google.com`
 - **Note**, the input names are the names attributed to each input, they are independent of the information displayed to the user. For example:
 
