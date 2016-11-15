@@ -64,7 +64,6 @@ Let's further look at some further form inputs.
 
 ##Input - Radio Box  
   
-  
 
   
   ```
