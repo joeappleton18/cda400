@@ -61,10 +61,8 @@
 Let's further look at some further form inputs. 
 
 
- 
-##Check Box 
 
-#<center>  Input - Radio Box  </center>
+##Input - Radio Box  
   
   
 
@@ -81,9 +79,17 @@ Let's further look at some further form inputs.
 
 - Radio buttons let a user select **ONE*** choice 
 
+
+##Input - Check Box
+
+![radio_box](assets/check_box.psd) 
+
+- Similar to check boxes, however they allow MULTIPLE choices
+
+
+
 ##Drop Down List
 ![radio_box](assets/drop_down_list.psd) 
-
 ```<label>Shipping method: </label>   	<select name="shipping">					<option value="1"> Standard</option>					<option value="2"> 2-day</option>					<option value="3"> Overnight</option>	</select>
 ```		
 
