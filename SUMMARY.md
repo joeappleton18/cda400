@@ -26,8 +26,7 @@
 
 	* [Notes](sessions/week6/notes.md)
 
-* Week 7 - (No Lecture) 
 * Week 8 - Forms 
 	* [Notes](sessions/week8/notes.md)
-	* [Pratical](sessions/week8/practical.md)
+	* [Practical](sessions/week8/task.md)
 	 
