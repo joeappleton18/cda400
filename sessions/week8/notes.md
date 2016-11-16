@@ -11,17 +11,23 @@
 </form>
 
 ```
-- A container for the controls (e.g. text field, checkbox, radio buttons etc.)- There the are some new attributes we need to used in the form 	- Consider the following form
+- A container for the controls (e.g. text field, checkbox, radio buttons etc.)
+
+- There the are some new attributes we need to used in the form 
+
+	- Consider the following form
 	
 	```
 	<form action="http://www.google.com" method="post">
 	
 	</form>
-	```  -  **action** where the form is sent to 
+	```
+  -  **action** where the form is sent to 
 
   -  **method**  specifies how the form is to be sent 
 		- **get** : data is appended to the URL
-		- **post** : data is included in body of the form  
+		- **post** : data is included in body of the form 
+ 
  
 ##Adding some form inputs
 
@@ -68,7 +74,9 @@ Let's further look at some further form inputs.
   
   ```
   <label for="rating">  Please enter rating   </label>
-  <p><input type="radio" name="rating" value="excellent"> Excellent</p>  <input type="radio" name="rating" value="good"> Good </p>  <input type="radio" name="rating" value="bad"> Bad </p>
+  <p><input type="radio" name="rating" value="excellent"> Excellent</p>
+  <input type="radio" name="rating" value="good"> Good </p>
+  <input type="radio" name="rating" value="bad"> Bad </p>
   ```
   ![radio_box](assets/radio_box.jpg)   
   
@@ -89,16 +97,25 @@ Let's further look at some further form inputs.
 
 ##Drop Down List
 ![radio_box](assets/drop_down_list.jpg) 
-```<label>Shipping method: </label>   	<select name="shipping">					<option value="1"> Standard</option>					<option value="2"> 2-day</option>					<option value="3"> Overnight</option>	</select>
+```
+<label>Shipping method: </label>   
+	<select name="shipping">
+					<option value="1"> Standard</option>
+					<option value="2"> 2-day</option>
+					<option value="3"> Overnight</option>
+</select>
 ```		
 
 
- - You can create a list using the `<select>…</select>` tag, giving the items in the list by using the <option> tag - If the user selects "Standard", the server side will receive: `shipping=1` 
+ - You can create a list using the `<select>…</select>` tag, giving the items in the list by using the <option> tag
+ - If the user selects "Standard", the server side will receive: `shipping=1`
+ 
 
 ##Text Area 
 
 ```   
-   <label  for="suggestion"> Enter a suggestion </label>	<textarea name="suggestions" rows="5" cols="25"> my suggestions are:</textarea>
+   <label  for="suggestion"> Enter a suggestion </label>
+	<textarea name="suggestions" rows="5" cols="25"> my suggestions are:</textarea>
 	
 ```
 
