@@ -114,8 +114,12 @@ Let's further look at some further form inputs.
 ##Text Area 
 
 ```   
-   <label  for="suggestion"> Enter a suggestion </label>
-	<textarea name="suggestions" rows="5" cols="25"> my suggestions are:</textarea>
+<label  for="suggestion"> Enter a suggestion </label>
+<textarea name="suggestions" rows="5" cols="25"> 
+
+my suggestions are:
+
+</textarea>
 	
 ```
 
