@@ -93,13 +93,23 @@ Let's further look at some further form inputs.
 
 - Similar to check boxes, however they allow MULTIPLE choices
 
+  
+  ```
+  <label for="rating"> What device do you use  </label>
+  <p><input type="checkbox" name="rating" value="ipad"> Ipad</p>
+  <input type="checkbox" name="rating" value="tv"> TV </p>
+  <input type="checkbox" name="rating" value="video"> Video </p>
+  ```
+
 
 
 ##Drop Down List
 ![radio_box](assets/drop_down_list.jpg) 
+
 ```
 <label>Shipping method: </label>   
-	<select name="shipping">
+
+<select name="shipping">
 					<option value="1"> Standard</option>
 					<option value="2"> 2-day</option>
 					<option value="3"> Overnight</option>
