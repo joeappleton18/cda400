@@ -29,4 +29,10 @@
 * Week 8 - Forms 
 	* [Notes](sessions/week8/notes.md)
 	* [Practical](sessions/week8/task.md)
-	 
+
+	
+* Week 9 - Styling Forms 
+	* [Notes](sessions/week9/notes.md)
+	* [Practical](sessions/week9/task.md)
+
+		
