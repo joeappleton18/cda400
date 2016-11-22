@@ -40,31 +40,32 @@ In the next few pages we're going to go through a typical design process that wo
 </fieldset> 
 
 * We can use the `<legend> .. </legend>` element to add a title to our `<fieldset>`   
-		
-		<fieldset>  
-			<legend> Name </legend>
-				<label> First Name: </label> <input type = "text" name="firstName">   
-				<label> Last Name: </label> <input type  = "text" name="lastName">   
-		</fieldset>
-		
-<fieldset>  
-		<legend> Name </legend>
-			<label> First Name: </label> <input type = "text" name="firstName">   
-			<label> Last Name: </label> <input type  = "text" name="lastName">   
-</fieldset>
 
+```html		
+<fieldset>  
+	<legend> Name </legend>
+		<label> First Name: </label> <input type = "text" name="firstName">   
+		<label> Last Name: </label> <input type  = "text" name="lastName">   
+</fieldset>
+	
+<fieldset>  
+<legend> Name </legend>
+	<label> First Name: </label> <input type = "text" name="firstName">   
+	<label> Last Name: </label> <input type  = "text" name="lastName">   
+</fieldset>
+```
 
 
 
 #2) `<p>` tags can be used to create separate lines
 
 Input elements and labels are inline, therefore we need to wrap them in a block level elements so they sit on their own line. The W3C recommend to wrap form elements in `<p>` tags in order create new lines. 
-
-	<fieldset> 
-		<legend> Name </legend>
-	   <p> <label> First Name: </label> <input type = "text" name="firstName"> </p>
-	   <p><label> Last Name: </label> <input type  = "text" name="lastName"> </p>
-	</fieldset>  
+```html
+<fieldset> 
+	<legend> Name </legend>
+   <p> <label> First Name: </label> <input type = "text" name="firstName"> </p>
+   <p><label> Last Name: </label> <input type  = "text" name="lastName"> </p>
+</fieldset>  
 	
 
  <fieldset> 
@@ -73,7 +74,7 @@ Input elements and labels are inline, therefore we need to wrap them in a block 
        <p><label> Last Name: </label> <input type  = "text" name="lastName"> </p>
 </fieldset>  
 
-
+```
 
 
 
@@ -81,7 +82,7 @@ Input elements and labels are inline, therefore we need to wrap them in a block 
 
 - Consider the following un-styled form  
 
-```
+```html
 <form id="payment">
     <!-- personal details -->  
     <fieldset>
@@ -129,22 +130,25 @@ Input elements and labels are inline, therefore we need to wrap them in a block 
 #Further Styling Of Inputs
 
 * You can change the can border colour and width of text inputs by implementing the border property 
-			
-		#payment input[type="text"] {
-				border: 1px solid green;    
-		}
+
+```html			
+#payment input[type="text"] {
+		border: 1px solid green;    
+}
+``
 	
 * We can style our input button just like any other HTML element. Remember, we can change the text on the button from submit to anything we like by implementing the attribute `value`  e.g.  `<input type="submit" value="GO!">`. 
 
-		 			
-		#payment input[type="submit"]  {
-    			border-radius: 4px; 
-    			border: solid 1px black; 
-    			font-size:20px;
-    			
-			    
-		}
+```html	 			
+#payment input[type="submit"]  {
+		border-radius: 4px; 
+		border: solid 1px black; 
+		font-size:20px;
 		
+	    
+}
+```
+	
 * <input type="submit" value="Press Me!" style=" border-radius: 4px; font-size:20px;border: solid 10px black 1px;">  
 
 
@@ -160,13 +164,15 @@ Input elements and labels are inline, therefore we need to wrap them in a block 
 <p><input type="checkbox" name="vehicle" value="Car">I have a car </p>
 </fieldset>
 
-	<fieldset>
-		<legend> Transport </legend>
-		<p><input type="checkbox" name="vehicle" value="Bike">I have a bike<p>
-		<p><input type="checkbox" name="vehicle" value="Car">I have a car </p>
-		</fieldset>
-	</form>
 
+```html
+<fieldset>
+	<legend> Transport </legend>
+	<p><input type="checkbox" name="vehicle" value="Bike">I have a bike<p>
+	<p><input type="checkbox" name="vehicle" value="Car">I have a car </p>
+	</fieldset>
+</form>
+```
 
 
 
@@ -178,19 +184,24 @@ Remember in the last session, we looked at just how easy it is to validate forms
 
 You can specifically target valid and invalid form fields using the pseudo selector `:valid` and `:invalid` :
 
-	input:invalid {
-  		border: solid red;
-	}
+```html
+input:invalid {
+	border: solid red;
+}
 
-	input:valid {
-  		border:solid green;
-	}
+input:valid {
+	border:solid green;
+}
+
+```
 	
 If you only want to display validation formatting when the form field is in focus 	(someone has clicked on it), we can use the `focus:` selector along with `:invalid` or `:valid` :
 
-	input:focus:valid { 
-	          border:solid green;
-	 }
+```html
 
+input:focus:valid { 
+          border:solid green;
+ }
 
+```
 	
