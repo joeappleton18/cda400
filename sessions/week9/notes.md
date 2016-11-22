@@ -23,7 +23,7 @@ In the next few pages we're going to go through a typical design process that wo
 
 
 
-#1) The \<fieldset> and \<legend> elements
+#1) The `<fieldset>` and `<legend>` elements
 
    
 * The `<fieldset> .. </fieldset>` tag is used to group common form elements together
@@ -149,7 +149,7 @@ Input elements and labels are inline, therefore we need to wrap them in a block 
 
 
 
-#Laying Out/Styling Check And Radio Boxes</p>
+#Laying OutStyling Check And Radio Boxes
 
 * We can use `<fieldset>` and  optional  `<legend>` to group together our related `<input>`'s 
 * Just like with any other input we can use `<p>` tags to create a new line
@@ -170,7 +170,7 @@ Input elements and labels are inline, therefore we need to wrap them in a block 
 
 
 
-#Styling Valid/Invalid Inputs
+#Styling Valid Invalid Inputs
 
 Remember in the last session, we looked at just how easy it is to validate forms using html5:
 
