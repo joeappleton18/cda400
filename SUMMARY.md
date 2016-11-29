@@ -35,4 +35,16 @@
 	* [Notes](sessions/week9/notes.md)
 	* [Practical](sessions/week9/task.md)
 
+* [Week 10 - Search Engine Optimisation](sessions/week10/session9.1_introduction.md)   
+	
+	- Notes
+	
+		* [How Search Engines Work](sessions/week10/session9.2_how_search_engines_work.md)
+		* [Search Engine Optimisation](sessions/week10/session9.3_seo.md)
+		* [On Page SEO](sessions/week10/session9.4_onpage_seo.md)
+		* [Off Page SEO](sessions/week10/session9.5_offpage_seo.md)
+		* [Key Word And Competitor Research](sessions/week10/session9.6_key_word.md)
+		* [Optimising for Social Media](sessions/week10/session9.7_social_media.md)
+		
+* [Practical - Make a SEO friendly website](sessions/week10/session9.8_task.md)
 		
