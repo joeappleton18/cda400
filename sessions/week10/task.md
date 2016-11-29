@@ -5,7 +5,7 @@
 - You can find the mock up  [here](assets/task_image.png)
 - You can find the main image [here](assets/main_picture.jpg)
 
-**Note, this is as much as a review of HTML as it is a SEO task. You'll need to use most of what you've learnt so far**
+**Note, this is as much as a review of HTML as it is a SEO task. You'll need to use most of what you've learnt so far.**
 
 ![](assets/task_image.png)
 
